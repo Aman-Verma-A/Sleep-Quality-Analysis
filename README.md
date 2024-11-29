@@ -1,6 +1,6 @@
 Sleep Quality Analysis
 ![Screenshot (118)](https://github.com/user-attachments/assets/22c27d91-1382-489a-b98c-9e9138a14302)
-![Screenshot (112)](https://github.com/user-attachments/assets/ae036a3b-ab44-43be-9899-8f7d902e7b08)
+
 ![Screenshot (115)](https://github.com/user-attachments/assets/ab941d64-fbb0-4aef-8101-c57dd8f46169)
 ![Screenshot (116)](https://github.com/user-attachments/assets/fc301a23-46c5-4117-a301-d23ab6cff506)
 ![Screenshot (117)](https://github.com/user-attachments/assets/194d5629-a245-4613-95ba-6833d7283a69)
